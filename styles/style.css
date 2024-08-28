@@ -432,7 +432,7 @@ h2 {
     border-radius: 30px;
     background: #191C19;
 
-    background-image: url("/resources/contacts.png");
+    background-image: url("../resources/contacts.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
